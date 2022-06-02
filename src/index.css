@@ -1,0 +1,12 @@
+:root {
+  --violet: #8e49e7;
+}
+
+.bg-app {
+  background-image: linear-gradient(to bottom, #62d7d0 , #4d8de2);
+  min-height: 100vh;
+}
+
+.btn-violet {
+  background:var(--violet);
+}
